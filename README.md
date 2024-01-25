@@ -32,19 +32,5 @@
     <img src="https://img.shields.io/badge/-AlexandruD.Stoica-D14836?style=flat&logo=Gmail&logoColor=white"/>
  </a>
 
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<p align="center">
-
-### &nbsp;Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/alexandruds/">
-    <img src="https://img.shields.io/badge/-AlexandruD%20Stoica%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:AlexandruD.Stoica@gmail.com">
-    <img src="https://img.shields.io/badge/-AlexandruD.Stoica-D14836?style=flat&logo=Gmail&logoColor=white"/>
- </a>
  
  
