@@ -14,7 +14,7 @@
 ### &nbsp;Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/alexandruds">
+  <a href="https://www.linkedin.com/in/alexandruds/">
     <img src="https://img.shields.io/badge/-AlexandruD%20Stoica%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="AlexandruD.Stoica@gmail.com">
