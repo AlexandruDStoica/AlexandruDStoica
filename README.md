@@ -10,11 +10,11 @@
 
 <br>
 
-- A passionate 
-- Playing CTF's at spare time
-- Currently learning 
-- Personal website 
-- I’m currently 
+- 
+- 
+- 
+- 
+- 
 
 <br><br>
 
