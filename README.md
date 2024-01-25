@@ -11,7 +11,7 @@
 </div>
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
