@@ -21,5 +21,5 @@
     <img src="https://img.shields.io/badge/-AlexandruD.Stoica-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
 </p>
-![Endpoint Badge](https://img.shields.io/endpoint)
+
 
