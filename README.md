@@ -14,11 +14,6 @@
 ### &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
-
-<p align="center">
   <a href="www.linkedin.com/in/alexandruds">
     <img src="https://img.shields.io/badge/-AlexandruD%20Stoica%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
