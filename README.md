@@ -22,8 +22,4 @@
  </a>
   <a href="https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172">
     <img src="https://img.shields.io/badge/-Maven%20Analytics-0077B5?style=flat&logo=https://github.com/AlexandruDStoica/Maven-Logo/blob/main/images.jpeg=logos&view=library&logoColor=white"/>
-  </a>
-</p>
-    <img src="https://img.shields.io/badge/-Maven%20Analytics-0077B5?style=flat&logo=MavenAnalytics&logoColor=white"/>
-  </a>
-</p>
+ 
