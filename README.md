@@ -19,6 +19,9 @@
   </a>
   <a href="mailto:AlexandruD.Stoica@gmail.com">
     <img src="https://img.shields.io/badge/-AlexandruD.Stoica-D14836?style=flat&logo=Gmail&logoColor=white"/>
-
-
+ </a>
+  <a href="https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172">
+    <img src="https://img.shields.io/badge/-Maven%20Analytics-0077B5?style=flat&logo=https://asset.brandfetch.io/idSevYjcD9/idC2xgCzaD.jpeg&logoColor=white"/>
+  </a>
+</p>
 
