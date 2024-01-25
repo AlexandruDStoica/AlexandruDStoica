@@ -19,7 +19,6 @@
   </a>
   <a href="mailto:AlexandruD.Stoica@gmail.com">
     <img src="https://img.shields.io/badge/-AlexandruD.Stoica-D14836?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
+
 
 
