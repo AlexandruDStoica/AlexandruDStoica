@@ -13,7 +13,7 @@
 <br>
 
 - Project: [Coffe Shop Excel](https://github.com/AlexandruDStoica/Coffee_Shop_Excel)
-- Currently learning: [Excel Skills for Data Analytics](https://www.coursera.org/specializations/excel-data-analytics-visualization) | [Maven Analytics](https://app.mavenanalytics.io)
+- Currently learning: [Excel Skills for Data Analytics](https://www.coursera.org/specializations/excel-data-analytics-visualization) | [Maven Analytics](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
 - Certificates: [Google IT Suport](https://coursera.org/share/cbb108906227687dd0c6b692bd6cb0ae) | [Google Data Analyst](https://coursera.org/share/273d71856651a38cf257f11c2494ecde)
 
 <br><br>
