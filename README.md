@@ -10,16 +10,16 @@
 
 
 
+&nbsp;Projects: [Coffee Shop Excel](https://mavenanalytics.io/project/10704)
 
+&nbsp;I’m currently working in:
 
+[Applied Statistics for Business](https://www.coursera.org/learn/estadistica-aplicada-negocios) | [Maven Analytics](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
+  
 
--   I’m currently working in:  [Applied Statistics for Business](https://www.coursera.org/learn/estadistica-aplicada-negocios) | [Maven Analytics](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
-  
-- Project: [Coffe Shop Excel](https://mavenanalytics.io/project/10704)
-  
-- Currently learning: [Applied Statistics for Business](https://www.coursera.org/learn/estadistica-aplicada-negocios) | [Maven Analytics](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
-  
-- Certificates: [Google IT Suport](https://coursera.org/share/cbb108906227687dd0c6b692bd6cb0ae) | [Google Data Analyst](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) | [Excel Skills for Data Analytics](https://coursera.org/share/5d449590e3504e08f93add34861e6158)
+&nbsp;Certificates:
+
+[Google IT Suport](https://coursera.org/share/cbb108906227687dd0c6b692bd6cb0ae) | [Google Data Analyst](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) | [Excel Skills for Data Analytics](https://coursera.org/share/5d449590e3504e08f93add34861e6158)
 
 <br><br>
 
@@ -27,7 +27,7 @@
 
 <p align="center">
 
-### &nbsp;Connect with Me
+&nbsp;Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandruds/">
