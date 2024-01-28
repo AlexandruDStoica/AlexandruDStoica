@@ -18,7 +18,9 @@
   
 
 ### &nbsp;Certificates:
-[Google IT Suport](https://coursera.org/share/cbb108906227687dd0c6b692bd6cb0ae) | [Google Data Analyst](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) | [Excel Skills for Data Analytics](https://coursera.org/share/5d449590e3504e08f93add34861e6158)
+[Google IT Suport](https://coursera.org/share/cbb108906227687dd0c6b692bd6cb0ae) | [Google Data Analyst](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) | 
+
+[Excel Skills for Data Analytics](https://coursera.org/share/5d449590e3504e08f93add34861e6158)
 
 <br><br>
 
