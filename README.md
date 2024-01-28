@@ -26,7 +26,7 @@
 
 <p align="center">
 
-&nbsp;Connect with Me
+### &nbsp;Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandruds/">
