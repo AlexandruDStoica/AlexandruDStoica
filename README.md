@@ -17,7 +17,7 @@
 [Statistics and Business Analysis](https://www.coursera.org/specializations/business-statistics-analysis) | [Maven Analytics](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
   
 
-### &nbsp;Certificates:
+### &nbsp;Achievements Data Analytics Training:
 [Google Data Analyst](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) | [Excel for Data Analytics](https://coursera.org/share/5d449590e3504e08f93add34861e6158)
 
 <br><br>
