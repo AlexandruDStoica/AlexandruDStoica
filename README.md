@@ -11,7 +11,7 @@
 
 
 ### &nbsp;Projects: 
-[Coffee Shop Excel](https://mavenanalytics.io/project/10704) | [Traffic Safety Analysis](https://mavenanalytics.io/project/12068)
+[Coffee Shop Excel](https://mavenanalytics.io/project/10704) | [Traffic Safety Analysis](https://mavenanalytics.io/project/12068) | [HR Survey Analysis](https://mavenanalytics.io/project/12284)
 
 ### &nbsp;I'm currently learning:
 [Business Analytics](https://www.coursera.org/learn/business-analytics-bbva) | [Maven Analytics](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
