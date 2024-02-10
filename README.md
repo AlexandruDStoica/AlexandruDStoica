@@ -17,7 +17,7 @@
 [Business Analytics](https://www.coursera.org/learn/business-analytics-bbva) | [Maven Analytics](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
   
 
-### &nbsp;Achievements Data Analytics Training:
+### &nbsp;Achievements Data Analysis Training:
 [Google Data Analyst](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) | [Excel for Data Analytics](https://coursera.org/share/5d449590e3504e08f93add34861e6158)
 
 <br><br>
