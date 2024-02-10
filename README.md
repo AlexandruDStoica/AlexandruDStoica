@@ -11,7 +11,7 @@
 
 
 ### &nbsp;Projects: 
-[Coffee Shop Dashboard](https://mavenanalytics.io/project/10704) | [NYC Traffic Collisions](https://mavenanalytics.io/project/12068) | [HR Employee Survey](https://mavenanalytics.io/project/12284)
+[Coffee Shop Dashboard](https://mavenanalytics.io/project/10704)|[NYC Traffic Collisions](https://mavenanalytics.io/project/12068)|[HR Employee Survey](https://mavenanalytics.io/project/12284)
 
 ### &nbsp;I'm currently learning:
 [Business Analytics](https://www.coursera.org/learn/business-analytics-bbva) | [Maven Analytics](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
