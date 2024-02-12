@@ -11,14 +11,16 @@
 
 
 ### &nbsp;Projects: 
-[Coffee Shop Dashboard](https://mavenanalytics.io/project/10704) | [NYC Traffic Collisions](https://mavenanalytics.io/project/12068) 
-|  [HR Employee Survey](https://mavenanalytics.io/project/12284)
-
-### &nbsp;I'm currently learning:
-[Business Analytics](https://www.coursera.org/learn/business-analytics-bbva) | [Maven Analytics](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
+- [Maven Analytics](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
+- [HR Employee Survey](https://mavenanalytics.io/project/12284)
+- [NYC Traffic Collisions](https://mavenanalytics.io/project/12068)
   
 
-### &nbsp;Achievements Data Analysis Training:
+### &nbsp;I'm currently learning
+ - [Maven Analytics](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
+ - [Business Analytics](https://www.coursera.org/learn/business-analytics-bbva)
+  
+### &nbsp;Achievements Data Analysis Training
 [Google Data Analyst](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) | [Excel for Data Analytics](https://coursera.org/share/5d449590e3504e08f93add34861e6158)
 
 <br><br>
