@@ -21,7 +21,7 @@
  - [The Power of Statistics](https://www.coursera.org/learn/the-power-of-statistics)
   
 ### &nbsp;Achievements Data Analysis Training
-[Google Data Analyst](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) | [Excel for Data Analytics](https://coursera.org/share/5d449590e3504e08f93add34861e6158)
+[Google Data Analyst](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) | [Excel Data Analytics](https://coursera.org/share/5d449590e3504e08f93add34861e6158)
 
 <br><br>
 
