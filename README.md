@@ -11,9 +11,9 @@
 
 
 ### &nbsp;Projects: 
-- [Coffee Shop Dashboard](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
 - [HR Employee Survey](https://mavenanalytics.io/project/12284)
 - [NYC Traffic Collisions](https://mavenanalytics.io/project/12068)
+- [Coffee Shop Dashboard](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
   
 
 ### &nbsp;I'm currently learning
