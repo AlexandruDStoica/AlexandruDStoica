@@ -18,10 +18,10 @@
 
 ### &nbsp;I'm currently learning
  - [Maven Analytics](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
- - [The Power of Statistics](https://www.coursera.org/learn/the-power-of-statistics)
+ - [Data Visualization with Tableau](https://www.coursera.org/specializations/data-visualization)
   
 ### &nbsp;Achievements Data Analysis Training
-[Google Data Analytics](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) | [Excel Data Analytics](https://coursera.org/share/5d449590e3504e08f93add34861e6158)
+[Google Data Analytics](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) | [Excel Data Analytics](https://coursera.org/share/5d449590e3504e08f93add34861e6158) | [The Power Of Statistics](https://coursera.org/share/5bc2ea65a0b0887215c4cffe0507673a)
 
 <br><br>
 
