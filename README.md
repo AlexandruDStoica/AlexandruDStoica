@@ -11,10 +11,10 @@
 
 
 ### &nbsp;Projects: 
-- [HR Employee Survey](https://mavenanalytics.io/project/12284)
-- [NYC Traffic Collisions](https://mavenanalytics.io/project/12068)
-- [Coffee Shop Dashboard](https://mavenanalytics.io/project/10704)
-- [Customer Complaint Tracking](https://mavenanalytics.io/project/12616)
+- 
+- [NYC Traffic Collisions] (Excel) (https://mavenanalytics.io/project/12068)
+- [Coffee Shop Dashboard] (Excel) (https://mavenanalytics.io/project/10704)
+-
   
 
 ### &nbsp;I'm currently learning
