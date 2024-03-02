@@ -12,8 +12,8 @@
 
 ### &nbsp;Projects: 
 - 
-- [NYC Traffic Collisions] (Excel) (https://mavenanalytics.io/project/12068)
-- [Coffee Shop Dashboard] (Excel) (https://mavenanalytics.io/project/10704)
+- [NYC Traffic Collisions (Excel)](https://mavenanalytics.io/project/12068)
+- [Coffee Shop Dashboard (Excel)](https://mavenanalytics.io/project/10704)
 -
   
 
