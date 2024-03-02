@@ -11,11 +11,10 @@
 
 
 ### &nbsp;Projects: 
-- 
+- [Chocolate Bars (Tableau)](https://public.tableau.com/views/ChocolateBarsandAgePreferences/Dashboard1?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)
+- [London Bus Saftey (Tabelau)](https://public.tableau.com/views/LondonBusSaftey_17090610654180/Dashboard?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)
 - [NYC Traffic Collisions (Excel)](https://mavenanalytics.io/project/12068)
 - [Coffee Shop Dashboard (Excel)](https://mavenanalytics.io/project/10704)
--
-  
 
 ### &nbsp;I'm currently learning
  - [Maven Analytics](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
