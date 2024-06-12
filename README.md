@@ -11,13 +11,15 @@
 
 
 ### &nbsp;Projects: 
+- [Shift Scheduling (Google Sheets)](https://mavenanalytics.io/project/15843)
+- [Customer Complaint Tracking (Excel)](https://mavenanalytics.io/project/12616)
 - [Chocolate Bars (Tableau)](https://public.tableau.com/views/ChocolateBarsandAgePreferences/Dashboard1?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)
 - [London Bus Saftey (Tabelau)](https://public.tableau.com/views/LondonBusSaftey_17090610654180/Dashboard?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)
   
   
 
 ### &nbsp;I'm currently learning
- - [Maven Analytics](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
+ - [Tableau](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
    
   
 ### &nbsp;Achievements Data Analysis Training
