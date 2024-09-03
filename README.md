@@ -26,7 +26,7 @@
   
 
 ### &nbsp;I'm currently learning
- - [Business Intelligence Analyst](https://app.mavenanalytics.io/learning-paths/0181db8b-9fb6-43dd-b7c7-a3bc5ed42cce)
+ - [Business Intelligence Analyst](https://mavenanalytics.io/path/bi-analyst)
    
   
 ### &nbsp;Achievements Data Analysis Training
