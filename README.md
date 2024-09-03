@@ -26,7 +26,7 @@
   
 
 ### &nbsp;I'm currently learning
- - [Tableau](https://mavenanalytics.io/profile/Alexandru-D.-Stoica/186636172)
+ - [Business Intelligence Analyst](https://app.mavenanalytics.io/learning-paths/0181db8b-9fb6-43dd-b7c7-a3bc5ed42cce)
    
   
 ### &nbsp;Achievements Data Analysis Training
