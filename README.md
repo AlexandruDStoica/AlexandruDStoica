@@ -30,7 +30,7 @@
    
   
 ### &nbsp;Achievements Data Analysis Training
-[Google Data Analytics](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) | [Excel Data Analytics](https://coursera.org/share/5d449590e3504e08f93add34861e6158) | [Power Of Statistics](https://coursera.org/share/5bc2ea65a0b0887215c4cffe0507673a)
+[Google Data Analytics](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) | [Excel Data Analytics](https://coursera.org/share/5d449590e3504e08f93add34861e6158) | [Power Of Statistics](https://coursera.org/share/5bc2ea65a0b0887215c4cffe0507673a) | [Tableau](https://certificates.mavenanalytics.io/93818295-0c41-4f28-95d5-bb4c3e45330e#gs.evcffc)
 
 <br><br>
 
