@@ -20,10 +20,6 @@
 - [Shift Scheduling (Google Sheets)](https://mavenanalytics.io/project/15843)
   
 - [Customer Complaint Tracking (Excel)](https://mavenanalytics.io/project/12616)
-  
-- [All my Projects and Guided Projects](https://alexandrudstoica.com/about)
-  
-  
 
 ### &nbsp;I'm currently learning
  - [Business Intelligence Analyst](https://mavenanalytics.io/path/bi-analyst)
