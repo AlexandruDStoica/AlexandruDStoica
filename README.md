@@ -22,12 +22,11 @@
 - [Inventory Control System (Google Sheets)](https://mavenanalytics.io/project/17601) 
 
 ### &nbsp;I'm currently learning
- - [Business Intelligence Analyst](https://mavenanalytics.io/path/bi-analyst)
+ - [MySQL Specialist](https://mavenanalytics.io/path/mysql-specialist)
    
   
 ### &nbsp;Achievements Data Analysis Training
-[Google Data Analytics](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) | [Excel Data Analytics](https://coursera.org/share/5d449590e3504e08f93add34861e6158) | [Power Of Statistics](https://coursera.org/share/5bc2ea65a0b0887215c4cffe0507673a) | [Tableau](https://certificates.mavenanalytics.io/93818295-0c41-4f28-95d5-bb4c3e45330e#gs.evcffc)
-
+ - [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/ZDVH4RFWRVB6) | [Google Data Analytics](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) |
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
