@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/alexandruds/">
     <img src="https://img.shields.io/badge/-AlexandruD%20Stoica%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:Alexandru.workspace@gmail.com">
+  <a href="mailto:alexandruds@icloud.com">
     <img src="https://img.shields.io/badge/-AlexandruD.Stoica-D14836?style=flat&logo=Gmail&logoColor=white"/>
  </a>
 
