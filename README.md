@@ -22,7 +22,7 @@
 - [Inventory Control System (Google Sheets)](https://mavenanalytics.io/project/17601) 
 
 ### &nbsp;I'm currently learning
- - [MySQL Specialist](https://mavenanalytics.io/path/mysql-specialist)
+ - 
    
   
 ### &nbsp;Achievements Data Analysis Training
