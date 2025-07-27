@@ -4,17 +4,6 @@
 
 </div>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e">
-</a>
-
-
-
-
-
-
-
-
 ### &nbsp;Projects:
   
 - [Shift Scheduling (Google Sheets)](https://mavenanalytics.io/project/15843)
