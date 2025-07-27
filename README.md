@@ -11,7 +11,7 @@
 - [Inventory Control System (Google Sheets)](https://mavenanalytics.io/project/17601) 
 
 ### &nbsp;I'm currently learning
- - 
+ - Linux
    
   
 ### &nbsp;Achievements Data Analysis Training
